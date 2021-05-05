@@ -13,7 +13,7 @@
     "id":"111"
   }
 ],
-"users": [
+"users":[
     {
       "id": "1",
       "firstName": "John",
@@ -38,4 +38,5 @@
       "age": 23,
       "companyId": "2"
     }
+  ]
 }
