@@ -13,30 +13,14 @@
     "id":"111"
   }
 ],
-"users":[
-    {
-      "id": "1",
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "john@gmail.com",
-      "age": 34,
-      "companyId": "1"
-    },
-    {
-      "id": "2",
-      "firstName": "Mark",
-      "lastName": "Williams",
-      "email": "mark@gmail.com",
-      "age": 33,
-      "companyId": "1"
-    },
-    {
-      "id": "3",
-      "firstName": "Sara",
-      "lastName": "Smith",
-      "email": "sara@gmail.com",
-      "age": 23,
-      "companyId": "2"
-    }
-  ]
+  "users":[
+  {
+    "id":"1",
+    "name":"Artur"
+  },
+  {
+    "id":"2",
+    "name":"Max"
+  }
+]  
 }
